@@ -1,5 +1,7 @@
 # Trabajo Práctico 0 - Git
 
+# Luk
+
 En este pequeño TP vamos a explorar brevemente el uso de **git**. La idea es establecer una base mínima común de conocimiento de git para el uso que le damos en la materia.
 
 **git** es una herramienta muy versátil y poderosa, que se puede adaptar a una gran cantidad de escenarios y flujos de trabajo.

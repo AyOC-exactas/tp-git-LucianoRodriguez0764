@@ -1,6 +1,6 @@
 # Trabajo Práctico 0 - Git
 
-# Luk
+# Luk, otra vez
 
 En este pequeño TP vamos a explorar brevemente el uso de **git**. La idea es establecer una base mínima común de conocimiento de git para el uso que le damos en la materia.
 
